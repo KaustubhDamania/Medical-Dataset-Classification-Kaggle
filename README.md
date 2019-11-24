@@ -19,6 +19,9 @@ We are living in an “information age”. Terabytes of data are produced every 
 - Since it is a classification problem, after visualizing and analyzing the dataset, I decided to start off with a **KNN** implementation which gave me a **61%** accuracy.
 - Then I decided to use **Logistic Regression** which increased my accuracy upto 83% which further went upto **87%** after setting class weight as balanced in Scikit-learn.
 - After some research and Googling, I decided to use **Random Forests** and it worked perfectly giving me an accuracy of **89.856%**.
+- The Notebook containing the source code can be found [here.](https://github.com/KaustubhDamania/Medical-Dataset-Classification-Kaggle/blob/master/Untitled.ipynb) The training/testing dataset can be found in dataset.zip.
+
+
 
 ## Contributing
 
